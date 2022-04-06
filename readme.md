@@ -1,6 +1,4 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
-
+# Three.js solar system 3d 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
@@ -16,3 +14,4 @@ npm run dev
 npm run build
 ```
 # Threejs_solar
+starter from Courtesy of Bruno Simon of https://threejs-journey.xyz/
